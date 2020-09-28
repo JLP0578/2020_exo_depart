@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+header, footer{
+    margin: 0px;
+    padding: 0px;
+}
+.bar {
+    height: 5vh;
+    width: 100%;
+    background-color: darkblue;
+    margin: 0px;
+    padding: 0px;
+}
+.titre{
+    color: white;
+    padding-left: 25vh;
+}
+.subBar{
+    height: 15vh;
+    width:100%;
+    background-color: mediumslateblue;
+    background-image: url("img/background.jpg");
+}
+.subTitre{
+    color: white;
+    text-align: center ;
+}
+.barCopyRight{
+    background-color: darkblue;
+    text-align: right;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.barInfo{
+    padding-left: 25vh;
+    padding-right: 25vh;
+}
+.itemFooter1{
+    width: 45%;
+    height: 100%;
+}
+.itemFooter2{
+    width: 10%;
+    height: 100%;
+}
+.itemFooter2 img {
+    width: 15vh;
+    height: 15vh;
+}
+.conteneur{
+    text-align: center;
+    width: ;
+}
+.item1{
+    display: inline-block;
+    alignment: center;
+}
+.item1 fieldset{
+    width: 10vh;
+}
+.imgChat {
+    width: auto;
+    height: 30vh;
+    float:right;
+    margin-right: 45%;
+}
+footer{
+    background-color: whitesmoke;
+}
